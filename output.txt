@@ -1,0 +1,33 @@
+The output of: uname -a : is
+>>>>>>>>>>>>>>>>>>>>
+Linux 36c73a6fe196 6.10.0-linuxkit #1 SMP Wed Jul 17 10:51:09 UTC 2024 aarch64 aarch64 aarch64 GNU/Linux
+<<<<<<<<<<<<<<<<<<
+The output of: free -m : is
+>>>>>>>>>>>>>>>>>>>>
+               total        used        free      shared  buff/cache   available
+Mem:            7839        1045        6220           1         573        6628
+Swap:           1023           0        1023
+<<<<<<<<<<<<<<<<<<
+The output of: ls -l -a -F : is
+>>>>>>>>>>>>>>>>>>>>
+total 64
+drwxr-xr-x 11 vscode vscode   352 Dec 21 19:46 ./
+drwxr-xr-x 12 vscode vscode   384 Dec 21 19:45 ../
+-rwxr-xr-x  1 vscode vscode 17624 Dec 21 19:45 collatz_sequence*
+-rw-r--r--  1 vscode vscode  3203 Dec 21 19:45 collatz_sequence.c
+drwxr-xr-x 13 vscode vscode   416 Dec 21 19:45 .git/
+-rw-r--r--  1 vscode vscode   670 Dec 21 19:45 makefile
+-rw-r--r--  1 vscode vscode   449 Dec 21 19:46 output.txt
+-rwxr-xr-x  1 vscode vscode 19568 Dec 21 19:45 process_management*
+-rw-r--r--  1 vscode vscode  3844 Dec 21 19:45 process_management.c
+-rw-r--r--  1 vscode vscode    39 Dec 21 19:45 sample_in_process.txt
+-rw-r--r--  1 vscode vscode     9 Dec 21 19:45 start_numbers.txt
+<<<<<<<<<<<<<<<<<<
+The output of: whoami : is
+>>>>>>>>>>>>>>>>>>>>
+vscode
+<<<<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>>>>>>
+/workspaces/CP386/CP386-Assignment-2
+<<<<<<<<<<<<<<<<<<
